@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4F1F649C-1020-45BE-A487-F416D9297FF3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Presentation.Nop.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdditionalPlugins/CustomPlugin/CustomPlugin.csproj">
+    <Files>
+      <File FileName="AdditionalPlugins/CustomPlugin/CustomPlugin.csproj" Line="7" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="NopCommerce" expanded="True" selected="True">
+            <Node name="AdditionalPlugins" expanded="True">
+              <Node name="CustomPlugin" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Nop.Web" expanded="True" />
+              <Node name="Nop.Web.Framework" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
